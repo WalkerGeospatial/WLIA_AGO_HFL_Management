@@ -1,7 +1,7 @@
 # Never Republish Again!
 ### Using the ArcGIS API for Python to Manage and Administer Hosted Feature Layers
 
-Workshop materials for the **WLIA (Wolf Lodge Island Apartments) AGO HFL Management** session. This repository contains a series of Jupyter Notebooks that demonstrate how to programmatically manage ArcGIS Online Hosted Feature Layers — updating domains, configuring views, adding tables, and building relationships — without ever needing to republish your data.
+Workshop materials for the **WLIA (Wisconsin Land Information Association) AGO HFL Management** session. This repository contains a series of Jupyter Notebooks that demonstrate how to programmatically manage ArcGIS Online Hosted Feature Layers — updating domains, configuring views, adding tables, and building relationships — without ever needing to republish your data.
 
 ---
 
